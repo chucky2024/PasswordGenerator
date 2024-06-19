@@ -33,13 +33,15 @@ Make sure you have the following software installed on your machine:
 
     Using npm:
 
-    bash
+    ```bash
     npm install
+    ```
 
      Or using yarn:
 
-    bash
+    ```bash
     yarn install
+    ```
     
 
 ## Running the App
@@ -50,6 +52,7 @@ Using npm:
 
 ```bash
 npm run start
+```
 
 ## Testing the App
 
@@ -59,3 +62,4 @@ Using npm:
 
 ```bash
 npm run test
+```
